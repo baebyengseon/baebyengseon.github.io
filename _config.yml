@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Byengseon Bae"
-  avatar           : "profile.png"
+  avatar           : "Bae.jpg"
   bio              :
   location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=y49_dFYAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "baebyengseon@gmail.com"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
