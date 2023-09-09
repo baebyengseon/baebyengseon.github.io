@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can see my CV [here](baebyengseon.github.io/files/CV.pdf)
+You can see my CV [here](/files/CV.pdf)
