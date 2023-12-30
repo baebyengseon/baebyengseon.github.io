@@ -82,6 +82,7 @@ analytics:
 author:
   name             : "Byengseon Bae"
   avatar           : "Bae.jpg"
+  round-avatar     : true
   bio              :
   location         :
   employer         :
