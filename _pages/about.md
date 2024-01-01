@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am a Ph.D. student in political science at Claremont Graduate University. My research focuses on understanding representative democracy in the United States. I am interested in the principles of representative democracy in the United States and how they have been undermined by economic inequality, racial conflict, and partisan polarization. Embodying a mixed-method approach, my research includes not only theoretical studies to obtain normative benchmarks but also empirical works to find evidence to assess representative democracy in the United States.
+Hello. I am a Ph.D. student in political science at Claremont Graduate University. My research focuses on understanding representative democracy in the United States. I am interested in the principles of representative democracy in the United States and how they have been undermined by economic and racial inequalities and partisan polarization. Embodying a mixed-method approach, my research includes not only theoretical studies to obtain normative benchmarks but also empirical works to find evidence to assess representative democracy in the United States.
