@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am a Ph.D. student in political science at Claremont Graduate University. I study American political institutions with focus on representation. I am particularly interested in the original ideas of American political institutions and how representation is undermined by economic inequality, racial conflict, and partisan polarization in the United States. Embodying a mixed-method approach, my research includes not only theoretical studies to obtain the normative benchmark of representation but also empirical works to find evidence to assess representation in the United States.
+Hello. I am a Ph.D. student in political science at Claremont Graduate University. Studying American political institutions, I am particularly interested in how and for what the American political institutions were originally designed, and how the system is obstructed by economic inequality, racial conflict, and partisan polarization. My research employs normative and positive theories, and quantitative research methods.
