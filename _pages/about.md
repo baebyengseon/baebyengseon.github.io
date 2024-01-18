@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am a Ph.D. student in political science at Claremont Graduate University. Studying American political institutions, I am particularly interested in on what principles and for what American institutions were originally designed, and how such a political system is damaged by economic inequality, racial prejudice, and partisan polarization (e.g., gridlock, distrust of the government, populism, etc). My research employs normative and positive theories, and quantitative research methods.
+Hello. I am a Ph.D. candidate in political science at Claremont Graduate University. Studying American political institutions, I am particularly interested in on what principles and for what American institutions were originally designed, and how such a political system is damaged by economic inequality, racial prejudice, and partisan polarization (e.g., gridlock, distrust of the government, populism, etc). My research employs normative and positive theories, and quantitative research methods.
