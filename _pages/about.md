@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am a Ph.D. candidate in political science at Claremont Graduate University. Studying American political institutions, I am particularly interested in on what principles and for what purposes American institutions were originally designed, how they have been historically developed, and how such a political system is damaged by economic inequality, racial prejudice, and partisan polarization (e.g., gridlock, distrust of the government, populism, etc). My research employs normative and positive theories, and quantitative research methods.
+Hello. I am a Ph.D. candidate in political science at Claremont Graduate University. I am interested in the principles and purposes of American political institutions and their historical development. I am also interested in American slavery and its historical legacies such as racial threat. My research employs normative theories, historical analysis, and quantitative research methods.
