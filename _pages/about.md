@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am a Ph.D. candidate in political science at Claremont Graduate University. I am interested in the principles and purposes of American political institutions and their historical development. I am also interested in American slavery and its historical legacies such as racial threat. My research employs normative theories, historical analysis, and quantitative research methods.
+Hello. I am a Ph.D. candidate in political science at Claremont Graduate University. Studying American political thought and development, I am interested in the principles and purposes of American political institutions and their historical development. This includes national and local institutions, federalism, separation of powers, two-party system, representation, polarization, and slavery. My research employs normative theories, historical analysis, and quantitative research methods.
