@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am a Ph.D. candidate in political science at Claremont Graduate University specializing in American politics and political theory with a focus on representation, polarization, and populism in the United States. I study representation, polarization, and populism both theoretically and empirically by using a mixed-method approach that integrates normative and formal theories, historical analysis, and quantitative research methods. 
+Hello. I am a Ph.D. candidate in political science at Claremont Graduate University specializing in American politics and political theory with a focus on American political institutions and thought. Currently, I study representation, polarization, and populism in the United States both theoretically and empirically by using a mixed-method approach that integrates normative and formal theories, historical analysis, and quantitative research methods. 
