@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am a Ph.D. candidate in political science at Claremont Graduate University. My research is centered on American politics and political theory, with special interests in questions of representation, populism, race/ethnicity, immigration, and mortality in the United States. I study these topics both theoretically and empirically by using a mixed-methods approach that integrates normative and formal theories, historical analysis, and quantitative research methods. 
+Hello. I am a Ph.D. candidate in political science at Claremont Graduate University. My research is centered on American politics and political theory, with special interests in questions of representation, populism, race/ethnicity, immigration, and mortality in the United States. My research is theoretically informed and methodologically rigorous. I analyze survey, election, demographic data with causal inference methods.
