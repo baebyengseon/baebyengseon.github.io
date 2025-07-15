@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am a Ph.D. candidate in political science at Claremont Graduate University. My research is centered on American politics and political theory, with special interests in the topics of populism, racial threat, representation, reproduction, and mortality in the United States. Methodologically, I use philosophical analysis, survey research, text-as-data, GIS, etc.
+Hello. I am a Ph.D. candidate in political science at Claremont Graduate University. My research is centered on American politics and political theory, with special interests in the topics of populism, racial threat, representation, reproduction, and mortality in the United States. Methodologically, I use philosophical analysis, text-as-data, survey research, GIS, etc.
