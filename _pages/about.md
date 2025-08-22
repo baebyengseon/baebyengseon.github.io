@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am a Ph.D. candidate in political science at Claremont Graduate University. My research is centered on American political thought and representation in the United States, with special interests in the topics of populism, popular sovereignty, candidate quality/virtue, polarization, and identity in the United States. Methodologically, I use philosophical text analysis, text-as-data/NLP, survey research, and causal inference methods.
+Hello. I am a Ph.D. candidate in political science at Claremont Graduate University. My research is centered on representation in American politics and American political thought, with special interests in the topics of populism, popular sovereignty, candidate quality/virtue, polarization, and identity in the United States. Methodologically, I use philosophical text analysis, text-as-data/NLP, survey research, and causal inference methods.
