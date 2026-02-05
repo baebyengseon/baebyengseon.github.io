@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a Ph.D. candidate in political science at Claremont Graduate University, specializing in American political thought and racial and ethnic politics. I am particularly interested in how American statesmen have addressed racial issues and how racial attitudes shape populism and polarization in the United States. I study these topics both theoretically and empirically. 
+Welcome to my website! I am a Ph.D. candidate in political science at Claremont Graduate University, specializing in American political thought and racial and ethnic politics. I am particularly interested in how American statesmen have addressed populism based on racial and other prejudices and how racial attitudes shape populism and polarization today. I study these topics both theoretically and empirically. 
