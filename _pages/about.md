@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a Ph.D. candidate in political science at Claremont Graduate University, specializing in American political thought and racial and ethnic politics. I am interested in how to prevent populism in democracy. I study how populists use racial and other prejudices and how American statesmen, such as the American founders, Abraham Lincoln, Frederick Douglass, etc., have addressed it.
+Welcome to my website! I am a Ph.D. candidate in political science at Claremont Graduate University, specializing in American political thought and development. I am interested in populism, particularly based on racial prejudice, in the United States. I study populist movements in American history and how American statesmen, such as Abraham Lincoln and Frederick Douglass, have addressed them.
