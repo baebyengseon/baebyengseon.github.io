@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a Ph.D. candidate in political science at Claremont Graduate University, specializing in American political thought, development, and institutions. I am particularly interested in the American Founding, American Slavery, American institutions, polarization, and populism. 
+Welcome to my website! I am a Ph.D. candidate in political science at Claremont Graduate University, specializing in American political thought, development, and institutions. I am particularly interested in the American Founding, American Slavery, representation, polarization, and populism. 
