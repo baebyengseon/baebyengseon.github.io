@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I received my PhD in Political Science from Claremont Graduate University. My research focuses on U.S. constitutional law, American political thought and institutions, and race and ethnic politics. I am particularly interested in the American Founding, constitutionalism, American slavery and its legacy, and American statesmen's rhetoric. I study American political thought in the context of the broader tradition of Western political philosophy. I also conduct empirical research using administrative, public opinion, and textual data.
+Welcome to my website! I received my PhD in Political Science from Claremont Graduate University. My research focuses on American political thought and history, the U.S. constitution and institutions, and race and ethnic politics. I am particularly interested in the American Founding, constitutionalism, American statesmen's rhetoric, and American slavery and its legacy. I study American political thought in the context of the broader tradition of Western political philosophy. I also conduct empirical research using administrative, public opinion, and textual data.
